@@ -3,7 +3,9 @@ IpGen
 
 Simple IP Address List Creator
 
-This script is a simply front end for Nmap that will list out lists of IP addresses. It will also allow IPs to be excluded, also removes any addresses ending in x.x.x.0 or x.x.x.255.
+This script is a simple front end for Nmap that will list out lists of IP addresses. 
+It will also allow IPs to be excluded, also removes any addresses ending in x.x.x.0 or x.x.x.255.
+
 This is handy for pen testers as you can generate your list of IPs, and easily exclude yourself, other testers or VMs from the scans. Then just feed this list into Nmap and also very handy to paste them into Nessus...How many people scan themselves? :)
 
 
