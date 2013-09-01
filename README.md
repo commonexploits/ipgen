@@ -9,12 +9,12 @@ Creates IP lists from ranges and allows exclusions
 
 Developed by Daniel Compton at Info-Assure Ltd
 
-https://github.com/commonexploits/weape.git
+https://github.com/commonexploits/ipgen.git
 
 
 Installing  
 =======================
-    git clone https://github.com/commonexploits/weape.git
+    git clone https://github.com/commonexploits/ipgen.git
 
 
 How To Use	
